@@ -32,3 +32,6 @@ Note: this idea is inspired by the [Uniswap app swap UI](https://app.uniswap.org
 
 **With about 60% of the balance** <br/>
 ![With about 60% of the balance](https://res.cloudinary.com/vaughn-pictures/image/upload/v1651538624/4e9e8e26-49ad-46ea-8b7b-79bcc3796e10-Screen%20Shot%202022-05-03%20at%2008.40.38.png.png)
+
+**Uniswap** <br/>
+![Uniswap](https://res.cloudinary.com/vaughn-pictures/image/upload/v1651539628/d10eb0e7-48e0-4592-be92-48a346128b99-Screen%20Shot%202022-05-03%20at%2008.59.50.png.png)
